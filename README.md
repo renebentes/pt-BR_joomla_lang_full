@@ -1,5 +1,5 @@
-pt-BR_joomla_lang_full_v3x
-==========================
+pt-BR_joomla_lang_full
+======================
 
 Fork não oficial para o Pacote de Tradução Oficial pt-BR do CMS Joomla! 3.x
 
